@@ -8,6 +8,7 @@
 - [SpeakerDeck](#SpeakerDeck)
 - [Podcasts](#Podcasts)
 - [Tutorials](#Tutorials)
+- [Extras](#Extras)
 
 ## Official Documentation
 - [Jetpack compose](https://developer.android.com/jetpack/compose)
@@ -35,3 +36,5 @@
 
 ## Extras
 [Video - Kotlin and Jetpack Compose](https://www.youtube.com/watch?v=KjQU_QrlbEI)
+
+Feel free to contribute!
