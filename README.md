@@ -26,7 +26,6 @@
 - [Jetpack Compose: Optimism and Opportunity](https://commonsware.com/blog/2019/06/04/jetpack-compose-optimism-opportunity.html)
 - [Android Jetpack Compose Review](https://blog.karumi.com/android-jetpack-compose-review/)
 - [SwiftUI vs. Jetpack Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)
-- [](
 
 ## SpeakerDeck
 - [Jetpack @Compose](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android)
