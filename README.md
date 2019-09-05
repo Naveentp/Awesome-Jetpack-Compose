@@ -22,6 +22,11 @@
 ## Articles
 - [Diving into Jetpack Compose](https://medium.com/q42-engineering/android-jetpack-compose-895b7fd04bf4)
 - [Compose From First Principles](http://intelligiblebabble.com/compose-from-first-principles/)
+- [Writing Android UI Code in Jetpack Compose (1 of 2)](https://www.rivu.dev/writing-android-ui-code-in-jetpack-compose/)
+- [Jetpack Compose: Optimism and Opportunity](https://commonsware.com/blog/2019/06/04/jetpack-compose-optimism-opportunity.html)
+- [Android Jetpack Compose Review](https://blog.karumi.com/android-jetpack-compose-review/)
+- [SwiftUI vs. Jetpack Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)
+- [](
 
 ## SpeakerDeck
 - [Jetpack @Compose](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android)
