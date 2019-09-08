@@ -27,6 +27,7 @@
 - [Jetpack Compose: Optimism and Opportunity](https://commonsware.com/blog/2019/06/04/jetpack-compose-optimism-opportunity.html)
 - [Android Jetpack Compose Review](https://blog.karumi.com/android-jetpack-compose-review/)
 - [SwiftUI vs. Jetpack Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)
+- [Android Jetpack Compose First Impression](https://weekly-geekly.github.io/articles/461101/index.html)
 
 ## SpeakerDeck
 - [Jetpack @Compose](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android)
@@ -36,6 +37,7 @@
 ## Podcasts
 - [**Android Developer backstage** - Episode 115: Jetpack Compose](http://androidbackstage.blogspot.com/2019/06/episode-115-jetpack-compose.html)
 - [**Fragmented Podcast** - Episode 171: Jetpack Compose with Leland Richardson](https://fragmentedpodcast.com/episodes/172/)
+- [**Google podcast** - Romain Guy – Podcast S09 E09](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cucmF5d2VuZGVybGljaC5jb20vY2F0ZWdvcnkvcG9kY2FzdC9mZWVk&episode=aHR0cHM6Ly93d3cucmF5d2VuZGVybGljaC5jb20vP3A9MjMxMjI0&hl=en-IN&ep=6&at=1567914736470)
 
 ## Tutorials
 - [Raywenderlich - Jetpack Compose Primer](https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1)
