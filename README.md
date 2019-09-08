@@ -1,6 +1,9 @@
 # Awesome Jetpack compose
 > A collaborative list of awesome jetpack compose resources.
 
+## Featured in
+[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-378-blue)](https://androidweekly.net/issues/issue-378)
+
 ## Content
 - [Official Documentation](#Official-Documentation)
 - [Conference talks](#Conference-talks)
