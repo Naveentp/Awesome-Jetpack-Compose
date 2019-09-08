@@ -18,6 +18,7 @@
 - [Google IO19 - Declarative UI patterns](https://youtu.be/VsStyq4Lzxo)
 - [DroidconBerlin - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://www.droidcon.com/media-detail?video=353079951)
 - [KotlinEverywhere - Jetpack Compose](https://www.youtube.com/watch?v=I5zRmCheVVg)
+- [DevFest Kolkata 2019 - Let's Talk Composing UI](https://www.youtube.com/watch?v=kfNC-MKAGzc)
 
 ## Articles
 - [Diving into Jetpack Compose](https://medium.com/q42-engineering/android-jetpack-compose-895b7fd04bf4)
@@ -30,6 +31,7 @@
 ## SpeakerDeck
 - [Jetpack @Compose](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android)
 - [Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://speakerdeck.com/ragunathjawahar/jetpack-compose-next-gen-kotlin-ui-toolkit-for-android-7f94e1f2-d99c-427c-a09e-e0d219d1aa22)
+- [Shifting Paradigms](https://speakerdeck.com/ragunathjawahar/shifting-paradigms)
 
 ## Podcasts
 - [**Android Developer backstage** - Episode 115: Jetpack Compose](http://androidbackstage.blogspot.com/2019/06/episode-115-jetpack-compose.html)
