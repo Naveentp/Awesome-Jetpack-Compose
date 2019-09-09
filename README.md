@@ -47,6 +47,7 @@
 - [Raywenderlich - Jetpack Compose Primer](https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1)
 
 ## Extras
-[Video - Kotlin and Jetpack Compose](https://www.youtube.com/watch?v=KjQU_QrlbEI)
+- [Video - Kotlin and Jetpack Compose](https://www.youtube.com/watch?v=KjQU_QrlbEI)
+- `#compose` channel on [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)
 
 Feel free to contribute!
