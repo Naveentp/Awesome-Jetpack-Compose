@@ -3,6 +3,7 @@
 
 ## Featured in
 [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-378-blue)](https://androidweekly.net/issues/issue-378)
+[![Awesome Android](https://img.shields.io/badge/Awesome%20Android-169-green)](https://android.libhunt.com/newsletter/169)
 
 ## Content
 - [Official Documentation](#Official-Documentation)
