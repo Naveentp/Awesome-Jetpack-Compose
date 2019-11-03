@@ -7,6 +7,7 @@
 
 ## Content
 - [Official Documentation](#Official-Documentation)
+- [Sample Projects](#Sample Projects)
 - [Conference talks](#Conference-talks)
 - [Articles](#Articles) 
 - [SpeakerDeck](#SpeakerDeck)
@@ -19,12 +20,16 @@
 - [Jetpack compose](https://developer.android.com/jetpack/compose)
 - [Jetpack compose Readme](https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui/README.md)
 
+## Sample Projects
+- [Compose Samples Repository](lhttps://github.com/android/compose-samples)
+
 ## Conference Talks
 - [Google IO19 - Declarative UI patterns](https://youtu.be/VsStyq4Lzxo)
 - [DroidconBerlin - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://www.droidcon.com/media-detail?video=353079951)
 - [DroidconBerlin -  Jumping into Jetpack Compose way too early to see what's inside](https://www.droidcon.com/media-detail?video=352686988)
 - [KotlinEverywhere - Jetpack Compose](https://www.youtube.com/watch?v=I5zRmCheVVg)
 - [DevFest Kolkata 2019 - Let's Talk Composing UI](https://www.youtube.com/watch?v=kfNC-MKAGzc)
+- [Android Dev Summit '19 - Understanding Compose](https://youtu.be/Q9MtlmmN4Q0)
 
 ## Articles
 - [Diving into Jetpack Compose](https://medium.com/q42-engineering/android-jetpack-compose-895b7fd04bf4)
