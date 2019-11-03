@@ -7,21 +7,17 @@
 
 ## Content
 - [Official Documentation](#Official-Documentation)
-- [Sample Projects](#Sample Projects)
 - [Conference talks](#Conference-talks)
 - [Articles](#Articles) 
 - [SpeakerDeck](#SpeakerDeck)
 - [Podcasts](#Podcasts)
-- [Projects](#Projects)
+- [Sample Projects](#Sample-Projects)
 - [Tutorials](#Tutorials)
 - [Extras](#Extras)
 
 ## Official Documentation
 - [Jetpack compose](https://developer.android.com/jetpack/compose)
 - [Jetpack compose Readme](https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui/README.md)
-
-## Sample Projects
-- [Compose Samples Repository](lhttps://github.com/android/compose-samples)
 
 ## Conference Talks
 - [Google IO19 - Declarative UI patterns](https://youtu.be/VsStyq4Lzxo)
@@ -50,9 +46,9 @@
 - [**Fragmented Podcast** - Episode 171: Jetpack Compose with Leland Richardson](https://fragmentedpodcast.com/episodes/172/)
 - [**Google podcast** - Romain Guy – Podcast S09 E09](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cucmF5d2VuZGVybGljaC5jb20vY2F0ZWdvcnkvcG9kY2FzdC9mZWVk&episode=aHR0cHM6Ly93d3cucmF5d2VuZGVybGljaC5jb20vP3A9MjMxMjI0&hl=en-IN&ep=6&at=1567914736470)
 
-## Projects
+## Sample Projects
+- [Compose Samples Repository](https://github.com/android/compose-samples)
 - [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)
-
 
 ## Tutorials
 - [Raywenderlich - Jetpack Compose Primer](https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1)
