@@ -20,6 +20,7 @@
 - [Jetpack compose Readme](https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui/README.md)
 
 ## Conference Talks
+ [KotlinKonf 2019 - Compose Yourself: designing a Kotlin first UI Toolkit] Starting at 4:06:00 (https://youtu.be/i9RJpMOsKas?t=14791)
 - [Google IO19 - Declarative UI patterns](https://youtu.be/VsStyq4Lzxo)
 - [DroidconBerlin - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://www.droidcon.com/media-detail?video=353079951)
 - [DroidconBerlin -  Jumping into Jetpack Compose way too early to see what's inside](https://www.droidcon.com/media-detail?video=352686988)
