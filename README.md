@@ -50,6 +50,7 @@
 ## Sample Projects
 - [Compose Samples Repository](https://github.com/android/compose-samples)
 - [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)
+- [microMVCompose - MVC+navigation implementation on top of Jetpack Compose](https://github.com/andob/microMVCompose)
 
 ## Tutorials
 - [Raywenderlich - Jetpack Compose Primer](https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1)
