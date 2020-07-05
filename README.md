@@ -16,10 +16,13 @@
 - [Extras](#Extras)
 
 ## Official Documentation
-- [Jetpack compose](https://developer.android.com/jetpack/compose)
 - [Jetpack compose Readme](https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui/README.md)
+- Release Notes
+  - [Compose](https://developer.android.com/jetpack/compose)
+  - [Compose UI](https://developer.android.com/jetpack/androidx/releases/ui)
 
 ## Conference Talks
+- [Android 11 Virtual Conference - Jetpack Compose](https://www.youtube.com/watch?v=U5BwfqBpiWU)
 - [KotlinKonf 2019 - Compose Yourself: designing a Kotlin first UI Toolkit](https://youtu.be/i9RJpMOsKas?t=14791) Starting at 4:06:00 
 - [Google IO19 - Declarative UI patterns](https://youtu.be/VsStyq4Lzxo)
 - [DroidconBerlin - Jetpack Compose — Next Gen Kotlin UI Toolkit for Android](https://www.droidcon.com/media-detail?video=353079951)
@@ -51,13 +54,16 @@
 - [Compose Samples Repository](https://github.com/android/compose-samples)
 - [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 - [Learn Jetpack Compose By Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)
+- [Romain Guy's Sample Materials Shop](https://github.com/romainguy/sample-materials-shop)
 
 ## Tutorials
+- [Google Codelab: Jetpack Compose Basics](https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/)
 - [Raywenderlich - Jetpack Compose Primer](https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1)
 
 ## Extras
 - [Jetpack Compose FAQ](https://github.com/Mishkun/jetpack-compose-faq)
 - [Video - Kotlin and Jetpack Compose](https://www.youtube.com/watch?v=KjQU_QrlbEI)
 - `#compose` channel on [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)
+- [jetc.dev Jetpack Compose Newsletter](https://jetc.dev)
 
 Feel free to contribute!
