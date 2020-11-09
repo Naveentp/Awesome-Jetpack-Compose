@@ -52,9 +52,18 @@
 
 ## Sample Projects
 - [Compose Samples Repository](https://github.com/android/compose-samples)
-- [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground)
+- [Jetpack Compose Playground by Foso](https://github.com/Foso/Jetpack-Compose-Playground)
+- [Compose Academy Playground by Joe Birch](https://github.com/hitherejoe/ComposeAcademy-Playground)
 - [Learn Jetpack Compose By Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)
 - [Romain Guy's Sample Materials Shop](https://github.com/romainguy/sample-materials-shop)
+- [Compose Pokedex](https://github.com/zsoltk/compose-pokedex)
+- [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone)
+- [Compose Cook Book: Collection of all Jetpack compose UI](https://github.com/Gurupreet/ComposeCookBook)
+- [Jetpack Compose Calculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
+- [2048 Game Using Compose](https://github.com/alexjlockwood/android-2048-compose)
+- [Jetpack Compose Particle Clock](https://github.com/adibfara/ComposeClock)
+- [People In Space Using Kotlin Multiplatform & Jetpack Compose](https://github.com/joreilly/PeopleInSpace)
+- [Bees and Bombs Compose Animation](https://github.com/alexjlockwood/bees-and-bombs-compose)
 
 ## Tutorials
 - [Google Codelab: Jetpack Compose Basics](https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/)
