@@ -65,5 +65,6 @@
 - [Video - Kotlin and Jetpack Compose](https://www.youtube.com/watch?v=KjQU_QrlbEI)
 - `#compose` channel on [Kotlin Slack](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)
 - [jetc.dev Jetpack Compose Newsletter](https://jetc.dev)
+- [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot)
 
 Feel free to contribute!
