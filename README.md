@@ -16,7 +16,8 @@
 - [Extras](#Extras)
 
 ## Official Documentation
-- [Jetpack compose Readme](https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-master-dev/ui/README.md)
+- [Jetpack compose setup](https://developer.android.com/jetpack/compose/setup)
+- [Compose pathway codelabs](https://developer.android.com/courses/pathways/compose)
 - Release Notes
   - [Compose](https://developer.android.com/jetpack/compose)
   - [Compose UI](https://developer.android.com/jetpack/androidx/releases/ui)
